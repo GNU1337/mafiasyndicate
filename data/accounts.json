@@ -1,0 +1,12 @@
+[
+  {
+    "id": "acc-ebcc1c909fda",
+    "username": "__verify_user__",
+    "usernameLower": "__verify_user__",
+    "salt": "839bec68a70927bb4fd5bd6487b29868",
+    "passwordHash": "d5a1489b7e20ae355cf7a78cdbdd647f2aae0dac1945964a699815e21fc38c9b860e0e20573e6601ac90e6a430dab60e32070a2d25e86e99408d3258f5eeb78b",
+    "token": "c1bb9f35f58ba839339aad84da5cc27129614496bcb61af6",
+    "familyId": "gambino",
+    "createdAt": 1794863701543
+  }
+]
